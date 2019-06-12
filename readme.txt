@@ -1,4 +1,3 @@
-Git 
+Git
 GitHub
-GayHub..endl
-nop nop nop
+nop..endl
